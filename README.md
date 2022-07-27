@@ -1,10 +1,11 @@
-### Hi there 👋 I'm Yakup
+#    Hi there 👋 I'm Yakup 
 
-<hr>
+### A Backend Developer From Turkey
 
 
-- 🌱 I’m currently learning Symfony
-- 💬 Ask me about PHP, ASP.NET MVC, Ionic
+
+- 🌱 I’m currently learning <b>Symfony</b>
+- 💬 Ask me about <b>PHP, ASP.NET MVC, Ionic</b>
 - 📫 How to reach me: yakupakan.06@gmail.com
 
 
